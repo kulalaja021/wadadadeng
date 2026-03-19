@@ -1,0 +1,5 @@
+Mission Log — Sol 118  
+Astronaut: R. Vega  
+Status: Stable  
+Notes: Detected unusual magnetic fluctuations near the crater ridge.  
+Recommendation: Deploy secondary sensors on next EVA.
